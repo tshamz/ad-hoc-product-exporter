@@ -1,0 +1,21 @@
+{
+  "name": "AdHocProductExporter",
+  "version": "0.1.0",
+  "description": "The title says it all...",
+  "main": "ad-hoc-product-exporter.js",
+  "scripts": {
+    "start": "node ad-hoc-product-exporter.js"
+  },
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request-promise": "^0.4.3",
+    "ya-csv": "^0.9.4"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "keywords": [
+    "node"
+  ],
+  "license": "MIT"
+}
